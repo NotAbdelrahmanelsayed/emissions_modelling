@@ -1,0 +1,1 @@
+Try variation of dropping null and train a model and train it without dropping
